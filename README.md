@@ -7,19 +7,21 @@
   </p>
 </p>
 
+---
+##  Overview
+
+**E-Commerce System** is a full-stack web application built with **Laravel** for managing an online store. It provides secure authentication, product management, categories, orders, shopping cart functionality, and a scalable backend architecture following Laravel best practices.
 
 ---
 
 ##  Overview Website
 
 https://e-com-dashboard.up.railway.app/login
-
 ---
+Credentials Admin Access
+Email : admin@ecom.com =>
+Password : 12345678
 ---
-
-##  Overview
-
-**E-Commerce System** is a full-stack web application built with **Laravel** for managing an online store. It provides secure authentication, product management, categories, orders, shopping cart functionality, and a scalable backend architecture following Laravel best practices.
 
 ---
 
